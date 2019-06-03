@@ -1,0 +1,27 @@
+---
+layout: page
+title: Home
+permalink: /
+---
+
+
+<div class="home">
+
+  <ul class="post-list">
+    {% for post in site.posts %}
+      <li>
+        <div style="padding-top:10px; width:1200px">
+
+
+        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+        <h2><a class="post-link" href="{{ post.url | prepend: site.baseurl }}" style="float:left;margin-left:5px;">{{ post.title }}</a></h2>
+        </div>
+      </li>
+
+      <div style="clear:both;"></div>
+    {% endfor %}
+  </ul>
+
+
+
+</div>
