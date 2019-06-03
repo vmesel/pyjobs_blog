@@ -1,11 +1,17 @@
 ---
 layout: post
-title:  "Resumo da semana - Semana do dia 03/06/2019"
+title:  "Resumo de Vagas - Semana do dia 03/06/2019"
 date:   2019-06-03 20:08:14 -0300
 categories: resumo da semana
 ---
 
 Olá a todos, seja bem vindo ao resumo semanal de vagas do PyJobs! Aqui estão as mais novas vagas do site!
+
+### Vagas de nossos parceiros:
+
+- [[Destaque] - Desenvolvedor Pleno na Alarmtek em: São Paulo](https://www.pyjobs.com.br/job/485/)
+
+### Outras vagas do PyJobs
 
  - [Desenvolvedor Python na Spassu Tecnologia SA em: Rio de Janeiro - Centro](http://www.pyjobs.com.br/job/521)
  - [ARQUITETO DE SISTEMAS PLENO - DJANGO na Rhumanlider em: Mooca - São paulo](http://www.pyjobs.com.br/job/519)
