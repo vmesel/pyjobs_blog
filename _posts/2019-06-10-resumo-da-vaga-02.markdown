@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Resumo de Vagas - Semana do dia 03/06/2019"
-date:   2019-06-03 20:08:14 -0300
+title:  "Resumo de Vagas - Semana do dia 10/06/2019"
+date:   2019-06-10 20:08:14 -0300
 categories: resumo da semana
 ---
 
